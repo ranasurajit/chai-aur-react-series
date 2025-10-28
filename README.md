@@ -1,6 +1,6 @@
 # ☕ Chai aur React Journey
 
-![React](https://img.shields.io/badge/React-18.0.0-blue?logo=react)
+![React](https://img.shields.io/badge/React-19.1.1-blue?logo=react)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![YouTube Playlist](https://img.shields.io/badge/Watch-Chai%20aur%20React-red?logo=youtube)
 
@@ -80,7 +80,7 @@ Every project includes:
 
 ## 💻 Tools & Tech Stack
 
-- ⚛️ React 18+
+- ⚛️ React 19+
 - ⚡ Vite (for blazing-fast dev setup)
 - 🎨 Tailwind CSS
 - 🔄 Git & GitHub
