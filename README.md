@@ -25,9 +25,10 @@ This repo documents my hands-on journey into the world of **React.js**, where I�
 
 | # | Topic | Status |
 |---|--------|---------|
-| 1 | React Setup with Vite | ✅ Completed |
-| 2 | JSX & Components | ✅ Completed |
-| 3 | Props & Reusability | 🕒 In Progress |
+| 0 | React JS Roadmap | ✅ Completed |
+| 1 | Create React Projects with Vite and Create-React-App | ✅ Completed |
+| 2 | Understand the React flow and folder structure | ✅ Completed |
+| 3 | Create your own React Library and JSX | 🕒 In Progress |
 | 4 | useState Hook | ⏳ Pending |
 | 5 | useEffect Hook | ⏳ Pending |
 | 6 | Project: BG Changer | ⏳ Pending |
