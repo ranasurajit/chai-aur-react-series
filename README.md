@@ -28,8 +28,8 @@ This repo documents my hands-on journey into the world of **React.js**, where I�
 | 0 | React JS Roadmap | ✅ Completed |
 | 1 | Create React Projects with Vite and Create-React-App | ✅ Completed |
 | 2 | Understand the React flow and folder structure | ✅ Completed |
-| 3 | Create your own React Library and JSX | 🕒 In Progress |
-| 4 | useState Hook | ⏳ Pending |
+| 3 | Create your own React Library and JSX | ✅ Completed |
+| 4 | Why you need Hooks | 🕒 In Progress |
 | 5 | useEffect Hook | ⏳ Pending |
 | 6 | Project: BG Changer | ⏳ Pending |
 | 7 | Project: Password Generator | ⏳ Pending |
