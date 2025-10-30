@@ -30,8 +30,8 @@ This repo documents my hands-on journey into the world of **React.js**, where I�
 | 2 | Understand the React flow and folder structure | ✅ Completed |
 | 3 | Create your own React Library and JSX | ✅ Completed |
 | 4 | Why you need Hooks | ✅ Completed |
-| 5 | Virtual DOM, Fibre and Reconciliation | 🕒 In Progress |
-| 6 | Project: BG Changer | ⏳ Pending |
+| 5 | Virtual DOM, Fibre and Reconciliation | ✅ Completed |
+| 6 | Tailwind and Props in React | 🕒 In Progress |
 | 7 | Project: Password Generator | ⏳ Pending |
 | 8 | Routing in React | ⏳ Pending |
 | 9 | Context API | ⏳ Pending |
@@ -54,8 +54,9 @@ chai-aur-react-series/
 │   └── vite-react-project/
 ├── 04-why-you-need-hooks/
 |   ├── vite-counter-project-using-hooks/
-├── 05-context-api/
-├── 06-projects/
+├── 05-react-dom-fibre-reconciliation/
+|   ├── readme.md/
+├── 06-tailwind-and-props-in-react/
 │   ├── bg-changer/
 │   ├── password-generator/
 │   └── todo-app/
