@@ -1,4 +1,4 @@
-# ☕ Chai aur React Journey
+# ☕ Chai aur React Series
 
 ![React](https://img.shields.io/badge/React-19.1.1-blue?logo=react)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -29,8 +29,8 @@ This repo documents my hands-on journey into the world of **React.js**, where I�
 | 1 | Create React Projects with Vite and Create-React-App | ✅ Completed |
 | 2 | Understand the React flow and folder structure | ✅ Completed |
 | 3 | Create your own React Library and JSX | ✅ Completed |
-| 4 | Why you need Hooks | 🕒 In Progress |
-| 5 | useEffect Hook | ⏳ Pending |
+| 4 | Why you need Hooks | ✅ Completed |
+| 5 | Virtual DOM, Fibre and Reconciliation | 🕒 In Progress |
 | 6 | Project: BG Changer | ⏳ Pending |
 | 7 | Project: Password Generator | ⏳ Pending |
 | 8 | Routing in React | ⏳ Pending |
