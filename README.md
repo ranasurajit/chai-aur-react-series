@@ -42,13 +42,18 @@ This repo documents my hands-on journey into the world of **React.js**, where I�
 ## 📂 Project Structure
 
 ```
-chai-aur-react-journey/
-├── 01-basic-setup/
-│   ├── hello-react/
-│   └── notes.md
-├── 02-components-and-props/
-├── 03-state-and-hooks/
-├── 04-routing/
+chai-aur-react-series/
+├── 01-create-react-project/
+│   ├── cra-react-project/
+│   └── vite-react-project/
+├── 02-react-flow-file-structure/
+|   ├── cra-react-project/
+│   └── vite-react-project/
+├── 03-create-your-own-react-library-and-jsx/
+|   ├── cra-react-project/
+│   └── vite-react-project/
+├── 04-why-you-need-hooks/
+|   ├── vite-counter-project-using-hooks/
 ├── 05-context-api/
 ├── 06-projects/
 │   ├── bg-changer/
