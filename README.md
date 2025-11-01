@@ -25,17 +25,31 @@ This repo documents my hands-on journey into the world of **React.js**, where I�
 
 | # | Topic | Status |
 |---|--------|---------|
-| 0 | React JS Roadmap | ✅ Completed |
-| 1 | Create React Projects with Vite and Create-React-App | ✅ Completed |
-| 2 | Understand the React flow and folder structure | ✅ Completed |
+| 0 | React Roadmap | ✅ Completed |
+| 1 | Create React Projects | ✅ Completed |
+| 2 | Understand the React Flow and Structure | ✅ Completed |
 | 3 | Create your own React Library and JSX | ✅ Completed |
-| 4 | Why you need Hooks | ✅ Completed |
-| 5 | Virtual DOM, Fibre and Reconciliation | ✅ Completed |
-| 6 | Tailwind and Props in React | 🕒 In Progress |
-| 7 | Project: Password Generator | ⏳ Pending |
-| 8 | Routing in React | ⏳ Pending |
-| 9 | Context API | ⏳ Pending |
-| 10 | Final Project | ⏳ Pending |
+| 4 | Why you need Hooks and Projects | ✅ Completed |
+| 5 | Virtual DOM, Fibre and Reconcillation | ✅ Completed |
+| 6 | Tailwind and Props in React | ✅ Completed |
+| 7 | A React Interview Question on Counter | 🕒 In Progress |
+| 8 | Building our 1st React Project | ⏳ Pending |
+| 9 | UseEffect, UseRef and UseCallback | ⏳ Pending |
+| 10 | Custom Hooks in React | ⏳ Pending |
+| 11 | React Router Crash Course | ⏳ Pending |
+| 12 | Context API Crash Course | ⏳ Pending |
+| 13 | Context API with Local Storage | ⏳ Pending |
+| 14 | Redux Toolkit Crash Course | ⏳ Pending |
+| 15 | What is your Choice of Mega Project in React | ⏳ Pending |
+| 16 | Our Mega Project in React | ⏳ Pending |
+| 17 | Appwrite Backend for React Project | ⏳ Pending |
+| 18 | ENV and Appwrite for React Project | ⏳ Pending |
+| 19 | Build Authentication Service with Appwrite | ⏳ Pending |
+| 20 | Appwrite Database, File upload and Custom Queries | ⏳ Pending |
+| 21 | How to Configure Redux Toolkit in Big Projects | ⏳ Pending |
+| 22 | Production Grade React Components | ⏳ Pending |
+| 23 | How to use React Hook Form in Production | ⏳ Pending |
+| 24 | Adding Form and Slug Values | ⏳ Pending |
 
 ---
 
