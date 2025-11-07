@@ -171,10 +171,10 @@ src/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/react-password-generator.git
+git clone https://github.com/your-username/vite-react-hooks-app.git
 
 # Navigate to project folder
-cd react-password-generator
+cd vite-react-hooks-app
 
 # Install dependencies
 npm install
