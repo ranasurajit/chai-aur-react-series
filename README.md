@@ -34,8 +34,8 @@ This repo documents my hands-on journey into the world of **React.js**, where I�
 | 6 | Tailwind and Props in React | ✅ Completed |
 | 7 | A React Interview Question on Counter | ✅ Completed |
 | 8 | Building our 1st React Project (Background Changer) | ✅ Completed |
-| 9 | UseEffect, UseRef and UseCallback | 🕒 In Progress |
-| 10 | Custom Hooks in React | ⏳ Pending |
+| 9 | UseEffect, UseRef and UseCallback | ✅ Completed |
+| 10 | Custom Hooks in React | 🕒 In Progress |
 | 11 | React Router Crash Course | ⏳ Pending |
 | 12 | Context API Crash Course | ⏳ Pending |
 | 13 | Context API with Local Storage | ⏳ Pending |
