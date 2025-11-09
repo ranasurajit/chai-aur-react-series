@@ -35,9 +35,9 @@ This repo documents my hands-on journey into the world of **React.js**, where I�
 | 7 | A React Interview Question on Counter | ✅ Completed |
 | 8 | Building our 1st React Project (Background Changer) | ✅ Completed |
 | 9 | UseEffect, UseRef and UseCallback | ✅ Completed |
-| 10 | Custom Hooks in React | 🕒 In Progress |
-| 11 | React Router Crash Course | ⏳ Pending |
-| 12 | Context API Crash Course | ⏳ Pending |
+| 10 | Custom Hooks in React | ✅ Completed |
+| 11 | React Router Crash Course | ✅ Completed |
+| 12 | Context API Crash Course | 🕒 In Progress |
 | 13 | Context API with Local Storage | ⏳ Pending |
 | 14 | Redux Toolkit Crash Course | ⏳ Pending |
 | 15 | What is your Choice of Mega Project in React | ⏳ Pending |
